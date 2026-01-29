@@ -26,4 +26,4 @@ A clean and modern **Plymouth boot splash theme**, specifically designed for **C
 ## 🔗 Links
 
 - **KDE Store:**  
-  https://store.kde.org/p/
+  https://store.kde.org/p/2345142
