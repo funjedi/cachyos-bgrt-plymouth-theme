@@ -1,6 +1,6 @@
 CachyOS plymouth theme using the ACPI BGRT graphics as a background
 ---
-![Plymouth Preview](preview.png)
+![Plymouth Preview](preview.gif)
 
 A clean and modern **Plymouth boot splash theme**, specifically designed for **CachyOS** linux.
 
